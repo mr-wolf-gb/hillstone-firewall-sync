@@ -25,7 +25,7 @@ A comprehensive Laravel package for integrating with Hillstone NG firewall syste
 ### 1. Install via Composer
 
 ```bash
-composer require your-vendor/hillstone-firewall-sync
+composer require mr-wolf-gb/hillstone-firewall-sync
 ```
 
 ### 2. Publish Configuration and Migrations
@@ -367,7 +367,6 @@ For support, please:
 1. Check the [troubleshooting guide](docs/troubleshooting.md)
 2. Review the [configuration documentation](docs/configuration.md)
 3. Open an issue on GitHub
-4. Contact support at support@MrWolfGb.com
 
 ## Changelog
 
